@@ -1,4 +1,8 @@
-# SamGift
+# Sam's Gift
+
+Hey Sam, here's a little something I made with current hobby since I've lost touch with Piano
+
+
 
 **Game Link** : https://drive.google.com/drive/folders/1nf__fcbTdIzz_3PeIZLvgj4yuklCdXCH?usp=sharing
 

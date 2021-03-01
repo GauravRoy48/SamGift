@@ -2,6 +2,8 @@
 
 Hey Sam, here's a little something I made with my current hobby since I've lost touch with playing the keyboard. Hope you like it!
 
+Along with the links below, I've also placed some images and videos in the ***Media*** folder of the repo
+
 ## Game Link
 
 **__Note__**: The game only runs on Windows OS

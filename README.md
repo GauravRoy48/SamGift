@@ -3,6 +3,7 @@
 Hey Sam, here's a little something I made with current hobby since I've lost touch with Piano
 
 
+**__Note__**: The game only runs on Windows machines
 
 **Game Link** : https://drive.google.com/drive/folders/1nf__fcbTdIzz_3PeIZLvgj4yuklCdXCH?usp=sharing
 

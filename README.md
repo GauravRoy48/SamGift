@@ -4,14 +4,14 @@ Hey Sam, here's a little something I made with my current hobby since I've lost 
 
 ## Game Link
 
-**__Note__**: The game only runs on Windows machines
+**__Note__**: The game only runs on Windows OS
 
 **Link:** https://drive.google.com/drive/folders/1nf__fcbTdIzz_3PeIZLvgj4yuklCdXCH?usp=sharing
 
 ### Instructions
 
 1. Unzip the folder inside.
-2. Run the **Surprise.exe** file inside.
+2. Run the ***Surprise.exe*** executable file inside.
 
 ## Youtube Video
 

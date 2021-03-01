@@ -1,15 +1,12 @@
 # Sam's Gift
 
-Hey Sam, here's a little something I made with current hobby since I've lost touch with Piano
-
-
-
+Hey Sam, here's a little something I made with my current hobby since I've lost touch with playing the keyboard. Hope you like it!
 
 ## Game Link
 
 **__Note__**: The game only runs on Windows machines
 
-https://drive.google.com/drive/folders/1nf__fcbTdIzz_3PeIZLvgj4yuklCdXCH?usp=sharing
+**Link:** https://drive.google.com/drive/folders/1nf__fcbTdIzz_3PeIZLvgj4yuklCdXCH?usp=sharing
 
 ### Instructions
 

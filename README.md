@@ -8,7 +8,7 @@ Along with the links below, I've also placed some images and videos in the ***Tr
 
 **__Note__**: The game only runs on **Windows OS**
 
-**Link:** https://drive.google.com/drive/folders/1nf__fcbTdIzz_3PeIZLvgj4yuklCdXCH?usp=sharing
+**Link:** https://drive.google.com/file/d/1KRcEuvZbTxdTA5D7okA9GwTapAkvk7Gs/view?usp=sharing
 
 ### Instructions
 

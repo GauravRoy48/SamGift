@@ -17,10 +17,11 @@ Along with the links below, I've also placed some images and videos in the ***Tr
 
 ## Youtube Video
 
-[![](http://img.youtube.com/vi/aSYrT2zAuyg/0.jpg)](http://www.youtube.com/watch?v=aSYrT2zAuyg "")
+[![](http://img.youtube.com/vi/NfVQ9ahV8GE/0.jpg)](http://www.youtube.com/watch?v=NfVQ9ahV8GE "")
 
 
 ## Demo Video
 
-https://user-images.githubusercontent.com/19959825/109536279-8dcb2e00-7ae3-11eb-9b61-c8c9843a431d.mp4
+
+https://user-images.githubusercontent.com/19959825/110246462-af1d9580-7f8d-11eb-9c17-87aa8cb3c5dd.mp4
 
